@@ -1,0 +1,24 @@
+{
+  "1478119539383341066": {
+    "guildId": "1478119539383341066",
+    "maxEveryone": 1,
+    "maxHere": 1,
+    "maxRole": 1,
+    "punishments": [
+      "warn",
+      "1h timeout",
+      "remove admin role"
+    ],
+    "counterChannelId": "1507522773243924671",
+    "day": "2026-06-06",
+    "usedEveryone": 0,
+    "usedHere": 0,
+    "usedRole": 0,
+    "offences": {
+      "1159932392908279849": 1
+    },
+    "roleLimits": {},
+    "memberLimits": {},
+    "memberUsage": {}
+  }
+}

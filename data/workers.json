@@ -1,0 +1,91 @@
+{
+  "1413576859106541709": {
+    "userId": "1413576859106541709",
+    "guildId": "1470489511845957755",
+    "status": "rejected",
+    "points": 0,
+    "strikes": 0,
+    "totalPoints": 0,
+    "appliedAt": "2026-05-31T16:09:33.857Z",
+    "acceptedAt": null,
+    "rejectedAt": "2026-05-31T16:09:51.695Z",
+    "applicationAnswers": {
+      "why": "...........................",
+      "experience": "......................no..................",
+      "onlineHours": "3-4",
+      "upcomingEvents": "exams in 2 years"
+    }
+  },
+  "1422998529428820092": {
+    "userId": "1422998529428820092",
+    "guildId": "1470489511845957755",
+    "status": "accepted",
+    "points": 0,
+    "strikes": 5,
+    "totalPoints": 0,
+    "appliedAt": "2026-05-31T16:11:40.169Z",
+    "acceptedAt": "2026-05-31T16:11:49.127Z",
+    "rejectedAt": null,
+    "applicationAnswers": {
+      "why": "dddddddddsdddddddddddddddd",
+      "experience": "deddddddddddddddddddd",
+      "onlineHours": "dddddddd",
+      "upcomingEvents": "dddddddddddddddddddd"
+    }
+  },
+  "1323743478009827379": {
+    "userId": "1323743478009827379",
+    "guildId": "1470489511845957755",
+    "status": "accepted",
+    "points": 0,
+    "strikes": 1,
+    "totalPoints": 0,
+    "appliedAt": "2026-05-31T16:58:53.268Z",
+    "acceptedAt": "2026-05-31T20:54:17.365Z",
+    "rejectedAt": null,
+    "applicationAnswers": {
+      "why": "bbbbbbbbbbbbbbbbbbbbbb",
+      "experience": "bbbbbbbbbbbbb",
+      "onlineHours": "bbbbbbbbbbbbbbbbbbbbbb",
+      "upcomingEvents": "bbbbbbbbbbbbbb"
+    },
+    "verified": true,
+    "verifiedAt": "2026-05-31T20:54:25.277Z"
+  },
+  "1469874901652602901": {
+    "userId": "1469874901652602901",
+    "guildId": "1470489511845957755",
+    "status": "accepted",
+    "points": 0,
+    "strikes": 1,
+    "totalPoints": 0,
+    "appliedAt": "2026-06-01T18:15:59.423Z",
+    "acceptedAt": "2026-06-01T18:17:54.358Z",
+    "rejectedAt": null,
+    "applicationAnswers": {
+      "why": "I would like to join this team because I think I’ll do an amazing job as staff!",
+      "experience": "",
+      "onlineHours": "alot.. about 9-10 hrs",
+      "upcomingEvents": "none"
+    }
+  },
+  "1159932392908279849": {
+    "userId": "1159932392908279849",
+    "guildId": "1470489511845957755",
+    "status": "accepted",
+    "points": 0,
+    "strikes": 1,
+    "totalPoints": 0,
+    "appliedAt": "2026-06-04T20:00:21.965Z",
+    "acceptedAt": "2026-06-04T20:00:25.922Z",
+    "rejectedAt": null,
+    "applicationAnswers": {
+      "why": "bbbbbbbbbbbbbbbbbbbbbb",
+      "experience": "bbbbbbbbbbbbbbbbbbbbbbb",
+      "onlineHours": "bbbbbbbbbbbbbbbbbb",
+      "upcomingEvents": "bbbbbbbbbbbbbbbbb"
+    },
+    "verified": true,
+    "verifiedAt": "2026-06-04T20:00:28.595Z"
+  }
+}

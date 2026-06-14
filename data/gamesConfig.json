@@ -1,0 +1,24 @@
+{
+  "1514316708691710206": {
+    "guildId": "1514316708691710206",
+    "gamesChannelId": "1515025647498432562",
+    "hosterRoleId": "1514316708691710206",
+    "ping1RoleId": "1514316708691710206",
+    "ping1Name": "@everyone",
+    "ping2RoleId": null,
+    "ping2Name": null,
+    "adminPanelMsgId": "1515079495454031952",
+    "setupAt": "2026-06-12T19:45:00.629Z"
+  },
+  "1470489511845957755": {
+    "guildId": "1470489511845957755",
+    "gamesChannelId": "1475217564698411112",
+    "hosterRoleId": "1470494040339255358",
+    "ping1RoleId": "1470494040339255358",
+    "ping1Name": "⚡ | Head Moderator",
+    "ping2RoleId": null,
+    "ping2Name": null,
+    "adminPanelMsgId": "1515081749342846976",
+    "setupAt": "2026-06-12T19:53:57.993Z"
+  }
+}

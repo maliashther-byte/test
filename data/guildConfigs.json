@@ -1,0 +1,52 @@
+{
+  "1478119539383341066": {
+    "guildId": "1478119539383341066",
+    "plan": "premium",
+    "ytCategoryId": "1478226672024293449",
+    "shopCategoryId": "1479884878291013824",
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097609542172872/Copilot_20260427_181140.png?ex=6a02c4fc&is=6a01737c&hm=b0ab2cfc55021513d915de6ea2f6dafdef61bb56c8568fe56203130337c12347&",
+    "pfpUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097672540622889/image.png?ex=6a02c50b&is=6a01738b&hm=87531bf02240e1e6e773d0eb6cb9e19dd76c80ccf11c230e1d896dcfe474ab23",
+    "shopPingRoleId": "1497731288428183552"
+  },
+  "1423342350993723444": {
+    "guildId": "1423342350993723444",
+    "plan": "premium",
+    "ytCategoryId": "1471972130257109164",
+    "shopCategoryId": "1471972130257109164",
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097609542172872/Copilot_20260427_181140.png?ex=6a02c4fc&is=6a01737c&hm=b0ab2cfc55021513d915de6ea2f6dafdef61bb56c8568fe56203130337c12347&",
+    "pfpUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097672540622889/image.png?ex=6a02c50b&is=6a01738b&hm=87531bf02240e1e6e773d0eb6cb9e19dd76c80ccf11c230e1d896dcfe474ab23",
+    "shopPingRoleId": "1471972063274340586"
+  },
+  "1503457996934742136": {
+    "guildId": "1503457996934742136",
+    "plan": "free",
+    "ytCategoryId": "1503458256826273863",
+    "shopCategoryId": "1503458256826273863",
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097609542172872/Copilot_20260427_181140.png?ex=6a02c4fc&is=6a01737c&hm=b0ab2cfc55021513d915de6ea2f6dafdef61bb56c8568fe56203130337c12347&",
+    "pfpUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097672540622889/image.png?ex=6a02c50b&is=6a01738b&hm=87531bf02240e1e6e773d0eb6cb9e19dd76c80ccf11c230e1d896dcfe474ab23",
+    "shopPingRoleId": "1503458435877044285"
+  },
+  "1470489511845957755": {
+    "guildId": "1470489511845957755",
+    "plan": "free",
+    "ytCategoryId": "1470489513586327870",
+    "shopCategoryId": "1470489513586327878",
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097609542172872/Copilot_20260427_181140.png?ex=6a02c4fc&is=6a01737c&hm=b0ab2cfc55021513d915de6ea2f6dafdef61bb56c8568fe56203130337c12347&",
+    "pfpUrl": "https://cdn.discordapp.com/attachments/1487892157116186714/1503097672540622889/image.png?ex=6a02c50b&is=6a01738b&hm=87531bf02240e1e6e773d0eb6cb9e19dd76c80ccf11c230e1d896dcfe474ab23",
+    "shopPingRoleId": "1470490932653588644"
+  },
+  "1404657278925148301": {
+    "guildId": "1404657278925148301",
+    "plan": "premium"
+  },
+  "1514316708691710206": {
+    "guildId": "1514316708691710206",
+    "plan": "free",
+    "ytCategoryId": "1514316709291626617",
+    "shopCategoryId": "1514316709291626617",
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1514316709291626619/1514325625933008956/image.png?ex=6a2af524&is=6a29a3a4&hm=5adf62855c0cfb2691c4a09f7b5855bddae17f49729281c09e1087623aa8234b",
+    "pfpUrl": "https://cdn.discordapp.com/attachments/1514316709291626619/1514325636217438422/Screenshot_2026-06-10_18.48.25.png?ex=6a2af526&is=6a29a3a6&hm=b91fcd31d24c1bde231c45d23ba995e8bed3fbe3c89592f788da1cd129e1b2da",
+    "shopPingRoleId": "1514316708691710206",
+    "shopPrefix": "『🛍️』"
+  }
+}

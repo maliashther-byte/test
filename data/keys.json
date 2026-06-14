@@ -1,0 +1,255 @@
+{
+  "1af3f5b54caa84eb": {
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "used": false
+  },
+  "b1598a5f48ece6cb": {
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "used": true
+  },
+  "51981009eef85339": {
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "used": true
+  },
+  "8c8df6c4cd2dd64f": {
+    "durationHours": 3,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "used": true
+  },
+  "202df731e4fc99cb": {
+    "durationHours": 1,
+    "pingsHerePerDay": 0,
+    "pingsEveryonePerDay": 0,
+    "used": true
+  },
+  "b66817491b824c92": {
+    "durationHours": 67,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 2,
+    "used": true
+  },
+  "1df5a5d9eb59e445": {
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "used": true
+  },
+  "f53d5c05b0759c05": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "58637ae4cd1631fd": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": false
+  },
+  "62b10c01f314d029": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 0,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 2,
+    "used": true
+  },
+  "8c206924e3ad3328": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "f7e625b4067f8914": {
+    "guildId": "1503457996934742136",
+    "durationHours": 168,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "14e21823b80b8c3c": {
+    "guildId": "1478119539383341066",
+    "durationHours": 10000,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "122fc8237fbf27c6": {
+    "guildId": "1478119539383341066",
+    "durationHours": 3,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "db76f8af33b4b59c": {
+    "guildId": "1478119539383341066",
+    "durationHours": 72,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "e291c46c3b57898a": {
+    "guildId": "1478119539383341066",
+    "durationHours": 72,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "237f08e6beb1c2e0": {
+    "guildId": "1478119539383341066",
+    "durationHours": 72,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 0,
+    "used": false
+  },
+  "e703d0290e89ff9f": {
+    "guildId": "1478119539383341066",
+    "durationHours": 10000,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "f56dbdfa673f97e3": {
+    "guildId": "1478119539383341066",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": false
+  },
+  "85bbb4abf402b14a": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": false
+  },
+  "bf33b8d5ab061358": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "3aa1741e80dc6410": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 9,
+    "used": true
+  },
+  "a5dcb3fd6b7f49bd": {
+    "guildId": "1423342350993723444",
+    "durationHours": 2,
+    "pingsHerePerDay": 2,
+    "pingsEveryonePerDay": 2,
+    "shopPingPerDay": 2,
+    "used": true
+  },
+  "255e13a4b341d157": {
+    "guildId": "1423342350993723444",
+    "durationHours": 1,
+    "pingsHerePerDay": 6,
+    "pingsEveryonePerDay": 8,
+    "shopPingPerDay": 9,
+    "used": true
+  },
+  "b52826f8ac46820d": {
+    "guildId": "1470489511845957755",
+    "durationHours": 128,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "3687edda275f9c3d": {
+    "guildId": "1478119539383341066",
+    "durationHours": 11,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 11,
+    "used": false
+  },
+  "70407a57fc48b390": {
+    "guildId": "1478119539383341066",
+    "durationHours": 3,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": false
+  },
+  "65b21bbd5630216a": {
+    "guildId": "1478119539383341066",
+    "durationHours": 72,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 1,
+    "used": false
+  },
+  "4119f42ad0f680ea": {
+    "guildId": "1423342350993723444",
+    "durationHours": 897,
+    "pingsHerePerDay": 9,
+    "pingsEveryonePerDay": 9,
+    "shopPingPerDay": 9,
+    "used": true
+  },
+  "4d235cb74a6a1f21": {
+    "guildId": "1470489511845957755",
+    "durationHours": 3,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 1,
+    "shopPingPerDay": 1,
+    "used": true
+  },
+  "b951c94bb752dcba": {
+    "guildId": "1470489511845957755",
+    "durationHours": 72,
+    "pingsHerePerDay": 1,
+    "pingsEveryonePerDay": 0,
+    "shopPingPerDay": 0,
+    "used": true
+  },
+  "f1f8751183d54f7b": {
+    "guildId": "1478119539383341066",
+    "durationDays": 10000,
+    "dailyHere": 1,
+    "dailyEveryone": 1,
+    "dailyShop": 1,
+    "usedHereToday": 0,
+    "usedEveryoneToday": 0,
+    "usedShopToday": 0,
+    "dayResetTime": 1780244285630,
+    "weeklyHere": 1,
+    "weeklyEveryone": 1,
+    "weeklyShop": 1,
+    "usedHereThisWeek": 0,
+    "usedEveryoneThisWeek": 0,
+    "usedShopThisWeek": 0,
+    "weekResetTime": 1780244285630,
+    "used": false
+  }
+}

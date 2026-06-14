@@ -1,0 +1,110 @@
+{
+  "1503106051699118262": {
+    "channelId": "1503106051699118262",
+    "guildId": "1478119539383341066",
+    "rewardType": "role",
+    "roleId": "1480733185045303296",
+    "dmText": null,
+    "ytUrl": "https://www.youtube.com/@MrBeast",
+    "mainMessageId": "1503106052634312887"
+  },
+  "1503107260866367519": {
+    "channelId": "1503107260866367519",
+    "guildId": "1478119539383341066",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "67",
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503107262397284483"
+  },
+  "1503108037311860857": {
+    "channelId": "1503108037311860857",
+    "guildId": "1478119539383341066",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "huh",
+    "ytUrl": "youtube.com/@sambucha",
+    "mainMessageId": "1503108037857247404"
+  },
+  "1503110145700397168": {
+    "channelId": "1503110145700397168",
+    "guildId": "1478119539383341066",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "breh",
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503110146618818774"
+  },
+  "1503110664837922896": {
+    "channelId": "1503110664837922896",
+    "guildId": "1478119539383341066",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "54",
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503110665299296329"
+  },
+  "1503110797361021099": {
+    "channelId": "1503110797361021099",
+    "guildId": "1478119539383341066",
+    "rewardType": "role",
+    "roleId": "1480733185045303296",
+    "dmText": null,
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503110798434893956"
+  },
+  "1503110953523351763": {
+    "channelId": "1503110953523351763",
+    "guildId": "1478119539383341066",
+    "rewardType": "role",
+    "roleId": "1480751491969978399",
+    "dmText": null,
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503110954110423142"
+  },
+  "1503113205788967065": {
+    "channelId": "1503113205788967065",
+    "guildId": "1478119539383341066",
+    "rewardType": "role",
+    "roleId": "1480751491969978399",
+    "dmText": null,
+    "ytUrl": "https://www.youtube.com/@Sidemen",
+    "mainMessageId": "1503113206963372184"
+  },
+  "1503115625617297611": {
+    "channelId": "1503115625617297611",
+    "guildId": "1478119539383341066",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "breh",
+    "ytUrl": "https://www.youtube.com/@irabnut",
+    "mainMessageId": "1503115627299213426"
+  },
+  "1503455143536889896": {
+    "channelId": "1503455143536889896",
+    "guildId": "1423342350993723444",
+    "rewardType": "dm",
+    "roleId": null,
+    "dmText": "67 kid",
+    "ytUrl": "https://www.youtube.com/@Sambucha",
+    "mainMessageId": "1503455144233144361"
+  },
+  "1503460945392046280": {
+    "channelId": "1503460945392046280",
+    "guildId": "1503457996934742136",
+    "rewardType": "role",
+    "roleId": "1503458435877044285",
+    "dmText": null,
+    "ytUrl": "youtube.com/@mrbeast",
+    "mainMessageId": "1503460946407067730"
+  },
+  "1503477919966691409": {
+    "channelId": "1503477919966691409",
+    "guildId": "1478119539383341066",
+    "rewardType": "role",
+    "roleId": "1503477859082305717",
+    "dmText": null,
+    "ytUrl": "https://www.youtube.com/@warfan000",
+    "mainMessageId": "1503477920717344841"
+  }
+}

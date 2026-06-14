@@ -1,0 +1,12 @@
+{
+  "name": "yt-reward-shop-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "fs-extra": "^11.2.0",
+    "node-cron": "^3.0.3"
+  }
+}

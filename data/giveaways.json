@@ -1,0 +1,70 @@
+{
+  "1513585485992165467": {
+    "messageId": "1513585485992165467",
+    "channelId": "1470489512923889682",
+    "guildId": "1470489511845957755",
+    "hostId": "1159932392908279849",
+    "prize": "67",
+    "winnerCount": 1,
+    "endsAt": "2026-06-09T16:48:20.838Z",
+    "ended": true,
+    "cancelled": false,
+    "entries": {
+      "1159932392908279849": {
+        "joinedAt": "2026-06-08T16:48:31.702Z",
+        "requirementsMet": [
+          "trivia",
+          "wordle"
+        ]
+      }
+    },
+    "winners": [
+      "1159932392908279849"
+    ],
+    "requirements": [
+      {
+        "type": "trivia",
+        "options": {
+          "question": "What is 200+25",
+          "answer": "225"
+        }
+      },
+      {
+        "type": "wordle",
+        "options": {}
+      }
+    ],
+    "messageCounts": {}
+  },
+  "1515081397008859316": {
+    "messageId": "1515081397008859316",
+    "channelId": "1515025647498432562",
+    "guildId": "1514316708691710206",
+    "hostId": "1159932392908279849",
+    "prize": "67",
+    "winnerCount": 1,
+    "endsAt": "2026-06-13T19:52:33.790Z",
+    "ended": false,
+    "cancelled": false,
+    "entries": {
+      "1159932392908279849": {
+        "joinedAt": "2026-06-12T19:52:36.191Z",
+        "requirementsMet": [
+          "join_server"
+        ]
+      }
+    },
+    "winners": [],
+    "requirements": [
+      {
+        "type": "join_server",
+        "options": {
+          "guildId": "1510713806173769788",
+          "guildName": "Nyvex Creation Academy | NCA",
+          "invite": "https://discord.gg/3BRJw9Jmb"
+        }
+      }
+    ],
+    "messageCounts": {}
+  }
+}

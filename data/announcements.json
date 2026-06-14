@@ -1,0 +1,122 @@
+{
+  "1510679065890394316": {
+    "id": "1510679065890394316",
+    "guildId": "1470489511845957755",
+    "link": "https://discord.gg/GDdSG5KY",
+    "requirements": "join",
+    "timeLimitMins": 20,
+    "maxJoins": 0,
+    "postedAt": "2026-05-31T16:19:16.338Z",
+    "deadlineAt": "2026-05-31T16:39:16.338Z",
+    "closed": true,
+    "leaveWindowOpen": true,
+    "joins": {
+      "1422998529428820092": {
+        "userId": "1422998529428820092",
+        "strikeGiven": true
+      },
+      "1159932392908279849": {
+        "userId": "1159932392908279849",
+        "strikeGiven": true
+      }
+    }
+  },
+  "1510680022904733829": {
+    "id": "1510680022904733829",
+    "guildId": "1470489511845957755",
+    "link": "https://discord.gg/GDdSG5KY",
+    "requirements": "g",
+    "timeLimitMins": 10,
+    "maxJoins": 1,
+    "postedAt": "2026-05-31T16:23:04.470Z",
+    "deadlineAt": "2026-05-31T16:33:04.470Z",
+    "closed": true,
+    "leaveWindowOpen": false,
+    "joins": {
+      "1422998529428820092": {
+        "userId": "1422998529428820092",
+        "strikeGiven": true
+      },
+      "1159932392908279849": {
+        "userId": "1159932392908279849",
+        "strikeGiven": true
+      }
+    }
+  },
+  "1510683799694999643": {
+    "id": "1510683799694999643",
+    "guildId": "1470489511845957755",
+    "link": "https://discord.gg/GDdSG5KY",
+    "requirements": "1",
+    "timeLimitMins": 100,
+    "maxJoins": 0,
+    "postedAt": "2026-05-31T16:38:04.883Z",
+    "deadlineAt": "2026-05-31T18:18:04.883Z",
+    "closed": true,
+    "leaveWindowOpen": false,
+    "joins": {
+      "1422998529428820092": {
+        "userId": "1422998529428820092",
+        "strikeGiven": true
+      }
+    }
+  },
+  "1510685266917200053": {
+    "id": "1510685266917200053",
+    "guildId": "1470489511845957755",
+    "link": "https://discord.gg/GDdSG5KY",
+    "requirements": "1",
+    "timeLimitMins": 100,
+    "maxJoins": 0,
+    "postedAt": "2026-05-31T16:43:54.690Z",
+    "deadlineAt": "2026-05-31T18:23:54.690Z",
+    "closed": true,
+    "leaveWindowOpen": true,
+    "joins": {
+      "1159932392908279849": {
+        "userId": "1159932392908279849",
+        "proofMsgId": "1159932392908279849-1780245937072",
+        "screenshotUrl": "https://cdn.discordapp.com/attachments/1470489512923889682/1510685624410046734/Screenshot_2026-05-30_22.14.16.png?ex=6a1db720&is=6a1c65a0&hm=2b4f51052804d9e8aae2b31298734b59eec9e9dc617c1a8e5c1f922a65f2b0e2",
+        "notes": "",
+        "joinedAt": "2026-05-31T16:45:37.072Z",
+        "memberStatus": "unverified",
+        "strikeGiven": true
+      },
+      "1422998529428820092": {
+        "userId": "1422998529428820092",
+        "strikeGiven": true
+      }
+    },
+    "targetGuildId": "1501261032444792844"
+  },
+  "1512184447506583757": {
+    "id": "1512184447506583757",
+    "guildId": "1470489511845957755",
+    "link": "https://discord.gg/GDdSG5KY",
+    "requirements": "6",
+    "timeLimitMins": 19,
+    "maxJoins": 0,
+    "postedAt": "2026-06-04T20:01:07.046Z",
+    "deadlineAt": "2026-06-04T20:20:07.046Z",
+    "closed": true,
+    "leaveWindowOpen": false,
+    "joins": {
+      "1422998529428820092": {
+        "userId": "1422998529428820092",
+        "strikeGiven": true
+      },
+      "1323743478009827379": {
+        "userId": "1323743478009827379",
+        "strikeGiven": true
+      },
+      "1469874901652602901": {
+        "userId": "1469874901652602901",
+        "strikeGiven": true
+      },
+      "1159932392908279849": {
+        "userId": "1159932392908279849",
+        "strikeGiven": true
+      }
+    }
+  }
+}

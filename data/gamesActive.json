@@ -1,0 +1,16 @@
+{
+  "1514316708691710206": {
+    "gameMode": "counting",
+    "hostId": "1159932392908279849",
+    "channelId": "1515025647498432562",
+    "state": {
+      "current": 0,
+      "lastUserId": null,
+      "messages": [],
+      "started": "2026-06-12T19:52:05.164Z"
+    },
+    "gameMsgIds": [
+      "1515081277022142505"
+    ]
+  }
+}
